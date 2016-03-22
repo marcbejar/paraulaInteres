@@ -1,5 +1,6 @@
 #ifndef TAULAPARAULES_H
 #define TAULAPARAULES_H
+#include "Paraula.h"
 using namespace std;
 
 class TaulaParaules{
